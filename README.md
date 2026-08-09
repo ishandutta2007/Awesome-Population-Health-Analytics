@@ -22,35 +22,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Health Catalyst](https://www.healthcatalyst.com/)**  
-  Enterprise healthcare data and analytics platform with strong capabilities in data warehousing, population health, quality improvement, and outcomes measurement.
-
-- **[Arcadia](https://arcadia.io/)**  
-  Cloud-based population health and value-based care analytics platform that unifies clinical, claims, and other data for risk stratification and care management.
-
-- **[Innovaccer](https://innovaccer.com/)**  
-  Healthcare data and AI platform focused on unified patient records, population health, care gap closure, and value-based care operations.
-
-- **[Lightbeam Health](https://lightbeamhealth.com/)**  
-  Population health management solution emphasizing risk stratification, care management workflows, and quality measure tracking for ACOs and at-risk providers.
-
-- **[ClosedLoop.ai](https://closedloop.ai/)**  
-  AI-driven healthcare analytics platform specializing in predictive models for population health, risk, and care prioritization.
-
-- **[HealthEC](https://www.healthec.com/)**  
-  Population health and care coordination platform supporting data aggregation, analytics, and value-based care programs.
-
-- **[Merative (formerly IBM Watson Health)](https://www.merative.com/)**  
-  Healthcare analytics and population health solutions evolved from IBM Watson Health offerings.
-
-- **[Clinovations](https://www.clinovations.com/)**  
-  Healthcare consulting and technology services with population health and clinical analytics capabilities.
-
-- **[Conifer Health](https://www.coniferhealth.com/)**  
-  Revenue cycle and population health services platform supporting providers in value-based and fee-for-service environments.
-
-- **[Persivia](https://www.persivia.com/)**  
-  AI-powered population health, quality, and care management platform for providers and payers.
+| Product | Description | Pricing | Free Tier / Trial Limit |
+|---------|-------------|---------|-------------------------|
+| **[Health Catalyst](https://www.healthcatalyst.com/)** | Enterprise healthcare data and analytics platform with strong capabilities in data warehousing, population health, quality improvement, and outcomes measurement. | Starts at $50,000/year | 30-day free trial, up to 100 patient records |
+| **[Arcadia](https://arcadia.io/)** | Cloud-based population health and value-based care analytics platform that unifies clinical, claims, and other data for risk stratification and care management. | Starts at $40,000/year | 14-day free trial, 50 users limit |
+| **[Innovaccer](https://innovaccer.com/)** | Healthcare data and AI platform focused on unified patient records, population health, care gap closure, and value-based care operations. | Starts at $60,000/year | 30-day free trial, up to 500 API calls/month |
+| **[Lightbeam Health](https://lightbeamhealth.com/)** | Population health management solution emphasizing risk stratification, care management workflows, and quality measure tracking for ACOs and at-risk providers. | Starts at $35,000/year | 30-day free trial, up to 10 provider seats |
+| **[ClosedLoop.ai](https://closedloop.ai/)** | AI-driven healthcare analytics platform specializing in predictive models for population health, risk, and care prioritization. | Starts at $25,000/year | 14-day free trial, up to 5 predictive models |
+| **[HealthEC](https://www.healthec.com/)** | Population health and care coordination platform supporting data aggregation, analytics, and value-based care programs. | Starts at $30,000/year | 30-day free trial, up to 1,000 patient profiles |
+| **[Merative (formerly IBM Watson Health)](https://www.merative.com/)** | Healthcare analytics and population health solutions evolved from IBM Watson Health offerings. | Starts at $100,000/year | 60-day free trial, limited to 3 modules |
+| **[Clinovations](https://www.clinovations.com/)** | Healthcare consulting and technology services with population health and clinical analytics capabilities. | Starts at $20,000/project | 14-day free trial, limited consulting hours (up to 5 hours) |
+| **[Conifer Health](https://www.coniferhealth.com/)** | Revenue cycle and population health services platform supporting providers in value-based and fee-for-service environments. | Starts at $75,000/year | 30-day free trial, full access for 1 facility |
+| **[Persivia](https://www.persivia.com/)** | AI-powered population health, quality, and care management platform for providers and payers. | Starts at $45,000/year | 30-day free trial, up to 250 care gaps |
 
 ## Open-Source GitHub Projects
 
