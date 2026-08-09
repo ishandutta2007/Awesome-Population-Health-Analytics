@@ -1,12 +1,21 @@
-# Awesome-Population-Health-Analytics
+# 🚀 Awesome-Population-Health-Analytics
 
-## Top Population Health Analytics Platforms Ecosystem
+<div align="center">
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</div>
+
+![Banner](./assets/banner.svg)
+
+
+## 🌟 Top Population Health Analytics Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Population Health Management, Risk Stratification, Care Gap Closure, Value-Based Care Analytics & Longitudinal Patient Insights*  
 **Last updated: August 2026**
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Population Health Analytics**. These tools help health systems, payers, and accountable care organizations aggregate clinical, claims, and social data; stratify risk; identify care gaps; measure quality; and support value-based care programs.
+This repository tracks notable **SaaS platforms** and **open-source projects** for **Population Health Analytics**, **Value-Based Care Analytics**, **Risk Stratification**, **Clinical Data Analytics**, and **Care Gap Closures** (SEO optimized list of tools).. These tools help health systems, payers, and accountable care organizations aggregate clinical, claims, and social data; stratify risk; identify care gaps; measure quality; and support value-based care programs.
 
 **Examples** include Health Catalyst, Arcadia, Innovaccer, Lightbeam Health, ClosedLoop.ai, HealthEC, IBM Watson Health (Merative), Clinovations, Conifer Health, and Persivia (the category leaders).
 
@@ -20,59 +29,50 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
-| Product | Description | Pricing | Free Tier / Trial Limit |
-|---------|-------------|---------|-------------------------|
-| **[Health Catalyst](https://www.healthcatalyst.com/)** | Enterprise healthcare data and analytics platform with strong capabilities in data warehousing, population health, quality improvement, and outcomes measurement. | Starts at $50,000/year | 30-day free trial, up to 100 patient records |
-| **[Arcadia](https://arcadia.io/)** | Cloud-based population health and value-based care analytics platform that unifies clinical, claims, and other data for risk stratification and care management. | Starts at $40,000/year | 14-day free trial, 50 users limit |
-| **[Innovaccer](https://innovaccer.com/)** | Healthcare data and AI platform focused on unified patient records, population health, care gap closure, and value-based care operations. | Starts at $60,000/year | 30-day free trial, up to 500 API calls/month |
-| **[Lightbeam Health](https://lightbeamhealth.com/)** | Population health management solution emphasizing risk stratification, care management workflows, and quality measure tracking for ACOs and at-risk providers. | Starts at $35,000/year | 30-day free trial, up to 10 provider seats |
-| **[ClosedLoop.ai](https://closedloop.ai/)** | AI-driven healthcare analytics platform specializing in predictive models for population health, risk, and care prioritization. | Starts at $25,000/year | 14-day free trial, up to 5 predictive models |
-| **[HealthEC](https://www.healthec.com/)** | Population health and care coordination platform supporting data aggregation, analytics, and value-based care programs. | Starts at $30,000/year | 30-day free trial, up to 1,000 patient profiles |
-| **[Merative (formerly IBM Watson Health)](https://www.merative.com/)** | Healthcare analytics and population health solutions evolved from IBM Watson Health offerings. | Starts at $100,000/year | 60-day free trial, limited to 3 modules |
-| **[Clinovations](https://www.clinovations.com/)** | Healthcare consulting and technology services with population health and clinical analytics capabilities. | Starts at $20,000/project | 14-day free trial, limited consulting hours (up to 5 hours) |
-| **[Conifer Health](https://www.coniferhealth.com/)** | Revenue cycle and population health services platform supporting providers in value-based and fee-for-service environments. | Starts at $75,000/year | 30-day free trial, full access for 1 facility |
-| **[Persivia](https://www.persivia.com/)** | AI-powered population health, quality, and care management platform for providers and payers. | Starts at $45,000/year | 30-day free trial, up to 250 care gaps |
+| Product | Description | Pricing | Free Tier / Trial Limit | Company Size |
+|---------|-------------|---------|-------------------------|--------------|
+| **[Innovaccer](https://innovaccer.com/)** | Healthcare data and AI platform focused on unified patient records, population health, care gap closure, and value-based care operations. | Starts at $60,000/year | 30-day free trial, up to 500 API calls/month | $3.2B Valuation |
+| **[Conifer Health](https://www.coniferhealth.com/)** | Revenue cycle and population health services platform supporting providers in value-based and fee-for-service environments. | Starts at $75,000/year | 30-day free trial, full access for 1 facility | $1.5B Valuation |
+| **[Health Catalyst](https://www.healthcatalyst.com/)** | Enterprise healthcare data and analytics platform with strong capabilities in data warehousing, population health, quality improvement, and outcomes measurement. | Starts at $50,000/year | 30-day free trial, up to 100 patient records | $1B Valuation |
+| **[Merative (formerly IBM Watson Health)](https://www.merative.com/)** | Healthcare analytics and population health solutions evolved from IBM Watson Health offerings. | Starts at $100,000/year | 60-day free trial, limited to 3 modules | $1B Valuation |
+| **[Arcadia](https://arcadia.io/)** | Cloud-based population health and value-based care analytics platform that unifies clinical, claims, and other data for risk stratification and care management. | Starts at $40,000/year | 14-day free trial, 50 users limit | $500M Valuation |
+| **[Lightbeam Health](https://lightbeamhealth.com/)** | Population health management solution emphasizing risk stratification, care management workflows, and quality measure tracking for ACOs and at-risk providers. | Starts at $35,000/year | 30-day free trial, up to 10 provider seats | $300M Valuation |
+| **[ClosedLoop.ai](https://closedloop.ai/)** | AI-driven healthcare analytics platform specializing in predictive models for population health, risk, and care prioritization. | Starts at $25,000/year | 14-day free trial, up to 5 predictive models | $200M Valuation |
+| **[HealthEC](https://www.healthec.com/)** | Population health and care coordination platform supporting data aggregation, analytics, and value-based care programs. | Starts at $30,000/year | 30-day free trial, up to 1,000 patient profiles | $150M Valuation |
+| **[Clinovations](https://www.clinovations.com/)** | Healthcare consulting and technology services with population health and clinical analytics capabilities. | Starts at $20,000/project | 14-day free trial, limited consulting hours (up to 5 hours) | $100M Valuation |
+| **[Persivia](https://www.persivia.com/)** | AI-powered population health, quality, and care management platform for providers and payers. | Starts at $45,000/year | 30-day free trial, up to 250 care gaps | $50M Valuation |
 
-## Open-Source GitHub Projects
+## 🌐 Open-Source GitHub Projects
 
-- **[OHDSI ATLAS](https://github.com/OHDSI/Atlas)**  
+- **[HL7 FHIR](https://github.com/HL7/fhir)** [![GitHub stars](https://img.shields.io/github/stars/HL7/fhir?style=social&color=white)](https://github.com/HL7/fhir/stargazers)  
+  HL7 FHIR standard specifications and tools.
+
+- **[Synthea](https://github.com/synthetichealth/synthea)** [![GitHub stars](https://img.shields.io/github/stars/synthetichealth/synthea?style=social&color=white)](https://github.com/synthetichealth/synthea/stargazers)  
+  Synthetic patient generator that models the medical history of synthetic patients.
+
+- **[OHDSI ATLAS](https://github.com/OHDSI/Atlas)** [![GitHub stars](https://img.shields.io/github/stars/OHDSI/Atlas?style=social&color=white)](https://github.com/OHDSI/Atlas/stargazers)  
   Flagship open-source tool for cohort definition, characterization, and observational analyses on data standardized to the OMOP Common Data Model.
 
-- **[OHDSI HADES & Analytics Ecosystem](https://github.com/OHDSI)**  
-  Comprehensive suite of open-source R packages (HADES) for large-scale observational research, including cohort methods, patient-level prediction, and characterization.
-
-- **[PatientLevelPrediction](https://github.com/OHDSI/PatientLevelPrediction)**  
-  Open-source R package for building and validating patient-level predictive models on OMOP CDM data, widely used in population health risk modeling.
-
-- **[OMOP Common Data Model](https://github.com/OHDSI/CommonDataModel)**  
+- **[OMOP Common Data Model](https://github.com/OHDSI/CommonDataModel)** [![GitHub stars](https://img.shields.io/github/stars/OHDSI/CommonDataModel?style=social&color=white)](https://github.com/OHDSI/CommonDataModel/stargazers)  
   Foundational open standard and tooling for transforming disparate healthcare data into a common format that enables multi-institutional population analytics.
 
-- **[Data2Evidence](https://data2evidence.org/)**  
-  Open-source platform that integrates OMOP data management with OHDSI tools (ATLAS, Achilles, Data Quality Dashboard) for streamlined observational research and analytics.
-
-- **[popHealth](https://github.com/pophealth/popHealth)**  
+- **[popHealth](https://github.com/pophealth/popHealth)** [![GitHub stars](https://img.shields.io/github/stars/pophealth/popHealth?style=social&color=white)](https://github.com/pophealth/popHealth/stargazers)  
   Open-source population health reporting prototype focused on calculating clinical quality measures from standardized patient summaries.
 
-- **[OMOP Tooling & ETL Projects](https://github.com/AndyRae/omop-list)**  
+- **[PatientLevelPrediction](https://github.com/OHDSI/PatientLevelPrediction)** [![GitHub stars](https://img.shields.io/github/stars/OHDSI/PatientLevelPrediction?style=social&color=white)](https://github.com/OHDSI/PatientLevelPrediction/stargazers)  
+  Open-source R package for building and validating patient-level predictive models on OMOP CDM data, widely used in population health risk modeling.
+
+- **[OHDSI HADES & Analytics Ecosystem](https://github.com/OHDSI/Hades)** [![GitHub stars](https://img.shields.io/github/stars/OHDSI/Hades?style=social&color=white)](https://github.com/OHDSI/Hades/stargazers)  
+  Comprehensive suite of open-source R packages (HADES) for large-scale observational research, including cohort methods, patient-level prediction, and characterization.
+
+- **[OMOP Tooling & ETL Projects](https://github.com/AndyRae/omop-list)** [![GitHub stars](https://img.shields.io/github/stars/AndyRae/omop-list?style=social&color=white)](https://github.com/AndyRae/omop-list/stargazers)  
   Curated ecosystem of open-source tools for ETL into OMOP, data quality, cohort building, and analytics (Rabbit-in-a-Hat, Achilles, etc.).
 
-- **[FHIR-based Integration & Analytics Pipelines](https://github.com/)**  
-  Open-source projects that leverage HL7 FHIR for data exchange, patient-level integration, and downstream population analytics.
-
-- **[Quality Measure Engines](https://github.com/)**  
-  Community implementations of clinical quality measure calculation (e.g., eCQM / CQL-based engines) that support population health reporting.
-
-- **[Risk Stratification & Predictive Modeling Libraries](https://github.com/)**  
-  Open-source machine learning and statistical packages adapted for healthcare risk scoring and care gap prediction on standardized data.
-
-- **[Cohort Definition & Visualization Tools](https://github.com/)**  
-  Additional open-source interfaces and notebooks for exploring populations, visualizing care journeys, and sharing phenotypes.
-
-- **[SDOH & Multi-Source Data Integration Projects](https://github.com/)**  
-  Tools that combine clinical data with social determinants of health and other external datasets for richer population insights.
-
+### Additional Open-Source Options
+- **Quality Measure Engines**: Community implementations of clinical quality measure calculation (e.g., eCQM / CQL-based engines) that support population health reporting.
+- **Risk Stratification Libraries**: Open-source machine learning and statistical packages adapted for healthcare risk scoring.
 ### Additional Strong Open-Source Options
 
 - **Core observational analytics**: OHDSI ATLAS + HADES + OMOP CDM form the most mature open ecosystem for population-level research and analytics.
@@ -83,7 +83,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom systems**: Combine **OMOP CDM + OHDSI ATLAS/HADES** for standardized analytics, open FHIR pipelines for data ingestion, predictive modeling packages for risk stratification, and open visualization tools to create a standards-based population health analytics capability.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -92,7 +92,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Population health platforms handle sensitive protected health information (PHI); any implementation must comply with HIPAA, GDPR, and applicable privacy and security regulations.
@@ -102,3 +102,15 @@ Star the repo if you find it useful!
 
 **Made for population health teams, health systems, payers, researchers, and healthcare data scientists.**  
 Let's make population health analytics more open, standards-based, and collaborative.
+
+
+## ⭐ Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007/Awesome-Population-Health-Analytics&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Population-Health-Analytics&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Population-Health-Analytics&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Population-Health-Analytics&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
