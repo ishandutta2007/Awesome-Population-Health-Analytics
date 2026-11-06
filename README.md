@@ -70,6 +70,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[OMOP Tooling & ETL Projects](https://github.com/AndyRae/omop-list)** [![GitHub stars](https://img.shields.io/github/stars/AndyRae/omop-list?style=social&color=white)](https://github.com/AndyRae/omop-list/stargazers)  
   Curated ecosystem of open-source tools for ETL into OMOP, data quality, cohort building, and analytics (Rabbit-in-a-Hat, Achilles, etc.).
 
+- **[SIDHA](https://github.com/developer-rpai/sidha)** [![GitHub stars](https://img.shields.io/github/stars/developer-rpai/sidha?style=social&color=white)](https://github.com/developer-rpai/sidha/stargazers)  
+  Open data architecture for hidradenitis suppurativa research: EHR ingestion, computable phenotypes, and diagnostic-delay analytics on OMOP CDM and FHIR R4.
+
 ### Additional Open-Source Options
 - **Quality Measure Engines**: Community implementations of clinical quality measure calculation (e.g., eCQM / CQL-based engines) that support population health reporting.
 - **Risk Stratification Libraries**: Open-source machine learning and statistical packages adapted for healthcare risk scoring.
